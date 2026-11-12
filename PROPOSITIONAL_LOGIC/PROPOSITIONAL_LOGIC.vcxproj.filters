@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="propositional_logic.cpp">
+    <ClCompile Include="..\..\..\app_files\weixin_files\xwechat_files\wxid_cfuhmueq5wc222_ed2d\msg\file\2026-11\propositional_logic(2).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
